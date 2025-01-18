@@ -1,0 +1,16 @@
+Value_A,Fruit,Number,Category,Status,Animal,Score
+,apple,10.0,,True,cat,5.0
+1.0,banana,20.0,X,False,dog,10.0
+2.0,cherry,30.0,Y,True,cat,15.0
+3.0,apple,40.0,Z,False,dog,20.0
+,banana,,X,True,mouse,25.0
+5.0,,60.0,Y,,cat,
+6.0,cherry,70.0,Z,False,dog,35.0
+7.0,apple,80.0,X,True,,40.0
+8.0,banana,90.0,,False,mouse,
+9.0,cherry,100.0,Z,True,cat,50.0
+,apple,110.0,Y,,dog,55.0
+11.0,,120.0,X,False,mouse,60.0
+12.0,cherry,,Z,True,,65.0
+13.0,apple,140.0,,False,cat,70.0
+14.0,banana,150.0,Y,True,dog,75.0
